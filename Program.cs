@@ -11,7 +11,7 @@ namespace ConsoleApp1
             Console.WriteLine("Bangalore");
             Console.WriteLine("This is Teja");
 
-            Console.WriteLine("from vs");
+            Console.WriteLine("from github");
             Console.Read();
         }
     }
